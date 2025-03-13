@@ -82,7 +82,4 @@ Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirs
 4. Değişikliklerinizi push edin (`git push origin feature-branch`).
 5. Bir Pull Request oluşturun.
 
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
